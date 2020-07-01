@@ -1,6 +1,6 @@
 ## Features
 
-This is a simple express server which listens for POST requests on localhost:80/api/ for specific models and echos them out. Currently there is only one model based on the NIEM [tutoral](http://niem.github.io/json/tutorial/)
+This is a simple express server which listens for POST requests on localhost:80/api/ for specific models and echos them out. Currently there is only one model based on the NIEM [tutorial](http://niem.github.io/json/tutorial/)
 
 ## Models
 
